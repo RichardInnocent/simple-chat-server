@@ -1,0 +1,5 @@
+!hello,Hello %username%!
+!bye,Bye %username%, have a good day!
+!time,The current time where I am is %currentTime%.
+!about,I'm a simple chat bot, written in Java.
+!help,Interact with me by typing in any of the following commands!: !hello, !bye, !time, !about

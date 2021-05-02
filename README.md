@@ -8,7 +8,7 @@ The Simple Chat Server is a socket-based terminal chat application to allow user
 - Chat colours on ANSI-enabled terminals to improve readability.
 - Chat-bot friendly! (I've included an example chat bot client in this repository.)
 
-Here's a snapshot of the chat client doing it's magic!
+Here's a snapshot of the chat client doing its magic!
 
 ![Chat application in action](https://github.com/RichardInnocent/simple-chat-server/wiki/images/chat-demo.png)
 
